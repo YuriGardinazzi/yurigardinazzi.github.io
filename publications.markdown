@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Interests
-permalink: /interests/
+title: Publications
+permalink: /publications/
 ---
 
-My personal interests are pretty broad, in research they span from Complex Systems to Artificial Intelligence, and interdisciplinary approaches in general.
-About AI, I'd like to improve our understanding about big models that is what I'm actually doing at the moment during my PhD. 
 
-Topology might be an interesting tool to achieve this result and computer scientists like me know too little about it.
+### Peer Reviewed 
 
-Moreover I'm trying to understand in my spare time about the fundamentals of intelligence and how they can be exploited in the devolpment of new models/learning algorithms.  (No AGI with so many computational resources used? There must be something that we are still missing). 
+1)  Michele Braccini, **Yuri Gardinazzi**, Andrea Roli, Marco Villani. <span style="color:blue"> **Sensory–Motor Loop Adaptation in Boolean Network Robots** </span>, MDPI Sensors, 2024 [[link](https://www.mdpi.com/1424-8220/24/11/3393)]
 
-About other things, I'm interested in the general debate about where is science going at the moment, and in my spare time I'm a League of Legend player and I've started to practice Calisthenics, I'll keep this website updated if I'll break myself.
+### Under Review
 
+2) **Yuri Gardinazzi**, Giada Panerai, Karthik Viswanathan, Alessio Ansuini, Alberto Cazzaniga, Matteo Biagetti. <span style="color:blue"> **Persistent Topological Features in Large Language Models** </span>, arxiv, 2024 [[link](https://arxiv.org/abs/2410.11042)]
