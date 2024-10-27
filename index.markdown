@@ -11,7 +11,7 @@ I'm Yuri Gardinazzi and I've just started my second year of PhD at the [Universi
 
 I'm currently pursuing my PhD at [Area Science Park](https://www.areasciencepark.it/) under the supervision of [Matteo Biagetti](https://areasciencepark-rit.gitlab.io/lade/matteo.biagetti/).  
 
-Our main work is focused on applications of Topological Data Analysis to Deep Learning, in particular to Large Language Models. You can find my publications [here](/publication/).
+Our main work is focused on applications of Topological Data Analysis to Deep Learning, in particular to Large Language Models. You can find my publications [here](/publications/).
 
 
 ### Education
