@@ -12,3 +12,5 @@ permalink: /publications/
 ### Under Review
 
 2) **Yuri Gardinazzi**, Giada Panerai, Karthik Viswanathan, Alessio Ansuini, Alberto Cazzaniga, Matteo Biagetti. <span style="color:blue"> **Persistent Topological Features in Large Language Models** </span>, arxiv, 2024 [[link](https://arxiv.org/abs/2410.11042)]
+
+3) Karthik Viswanathan, **Yuri Gardinazzi**, Alberto Cazzaniga, Matteo Biagetti. <span style="color:blue"> **The Geometry of Tokens in Internal Representations of Large Language Models** </span>, arxiv, 2024 [[link](https://arxiv.org/abs/2501.10573)]
