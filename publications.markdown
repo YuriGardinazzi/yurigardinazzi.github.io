@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### Peer Reviewed 
 
-2)  <span style="color:blue"> **Persistent Topological Features in Large Language Models** </span>. **Yuri Gardinazzi**, Karthik Viswanathan, Giada Panerai, Alessio Ansuini, Alberto Cazzaniga, Matteo Biagetti. ICML, 2025 [[old arxiv link](https://arxiv.org/abs/2410.11042)].
+2)  <span style="color:blue"> **Persistent Topological Features in Large Language Models** </span>. **Yuri Gardinazzi**, Karthik Viswanathan, Giada Panerai, Alessio Ansuini, Alberto Cazzaniga, Matteo Biagetti. ICML, 2025 [[ICML 2025](https://icml.cc/virtual/2025/poster/43958)] [[OpenReview](https://openreview.net/forum?id=qAHnSkHvsm)].
 
 1)  <span style="color:blue"> **Sensory–Motor Loop Adaptation in Boolean Network Robots** </span>. Michele Braccini, **Yuri Gardinazzi**, Andrea Roli, Marco Villani.  MDPI Sensors, 2024 [[link](https://www.mdpi.com/1424-8220/24/11/3393)].
 
