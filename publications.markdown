@@ -16,4 +16,5 @@ permalink: /publications/
 
 
 3) Karthik Viswanathan, **Yuri Gardinazzi**, Alberto Cazzaniga, Matteo Biagetti. <span style="color:blue"> **The Geometry of Tokens in Internal Representations of Large Language Models** </span>, arxiv, 2025 [[link](https://arxiv.org/abs/2501.10573)]
+   
 4) Result of the Complexity 72H workshop <span style="color:blue"> **Characterization Of Diseases In Temporal Comorbidity Networks** </span> [[link](https://arxiv.org/abs/2506.22136)]
