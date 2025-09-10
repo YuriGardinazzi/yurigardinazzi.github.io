@@ -18,6 +18,7 @@ If you are curious about these topic do not hesitate to contact me.
 
 ### Education
 - PhD at University of Trieste (Nov 2023 - Now).
+- Visiting at Inria Centre at Université Côte d'Azur (Nov 2025 - Apr 2026) 
 - GeMSS - Generative Modelling Summer School. Eindhoven, The Netherlands (July 2023 - July 2023).
 - Master degree in Computer Science at University of Modena and Reggio Emilia. (Oct 2020 - Apr 2023).
 - Erasmus at University Claude Bernard Lyon1. (Aug 2021 - Jan 2022).
