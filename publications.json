@@ -1,53 +1,81 @@
 {
     "publications": [
       {
-        "title": "[Paper Title 1]",
+        "title": "Persistent Topological Features in Large Language Models",
         "authors": [
-          "Author 1*",
-          "Author 2*",
-          "Author 3",
-          "Author 4",
-          "Author 5",
-          "Author 6",
-          "Author 7",
-          "Author 8",
-          "Author 9",
-          "Author 10",
-          "Author 11†",
-          "Author 12†"
+          "Yuri Gardinazzi*",
+          "Karthik Viswanathan*",
+          "Giada Panerai",
+          "Alessio Ansuini",
+          "Alberto Cazzaniga",
+          "Matteo Biagetti "
         ],
-        "venue": "Preprint (2025)",
-        "thumbnail": "images/thumbs/1.jpg",
+        "venue": "ICML 2025",
+        "thumbnail": "images/thumbs/icml.png",
         "selected": 1,
         "award": "",
         "links": {
-          "pdf": "#",
-          "code": "#",
-          "project": "#"
+          "pdf": "https://openreview.net/pdf?id=qAHnSkHvsm",
+          "code": "https://github.com/RitAreaSciencePark/ZigZagLLMs/tree/main"
         }
       },
       {
         "title": "[Paper Title 2]",
         "authors": [
-          "Author 1*",
-          "Author 2*",
-          "Author 3",
-          "Author 4",
-          "Author 5",
-          "Author 6",
-          "Author 7",
-          "Author 8",
-          "Author 9",
-          "Author 10",
-          "Author 11"
+          "Karthik Viswanathan*",
+          "Yuri Gardinazzi",
+          "Giada Panerai",
+          "Alberto Cazzaniga",
+          "Matteo Biagetti"
         ],
         "venue": "Preprint (2025)",
-        "thumbnail": "images/thumbs/2.jpg",
+        "thumbnail": "images/thumbs/geometry.png",
         "selected": 0,
         "award": "",
         "links": {
-          "pdf": "#"
+          "pdf": "https://arxiv.org/pdf/2501.10573",
+          "code": "https://github.com/RitAreaSciencePark/token_geometry/tree/main"
+        }
+      },
+      {
+        "title": "Characterization Of Diseases In Temporal Comorbidity Networks",
+        "authors": [
+          "Yuri Gardinazzi",
+          "Roger Gonzaléz March",         
+          "Suprabhath Kalahasti",
+          "Andrea Montaño Ramirez",
+          "Matteo Neri",
+          "Cicely Nguyen",
+          "Giovanni Palermo",
+          "Erik Weis",
+          "Katharina Ledebur",
+          "Elma Dervić"
+          
+        ],
+        "venue": "Preprint (2025)",
+        "thumbnail": "images/thumbs/complexity.png",
+        "selected": 0,
+        "award": "",
+        "links": {
+          "pdf": "https://arxiv.org/pdf/2506.22136"
+        }
+      },
+      {
+        "title": "Sensory–Motor Loop Adaptation in Boolean Network Robots",
+        "authors": [
+          "Michele Braccini",
+          "Yuri Gardinazzi",         
+          "Andrea Roli",
+          "Marco Villani"
+        ],
+        "venue": "Sensors MDPI (2024)",
+        "thumbnail": "images/thumbs/sensors.png",
+        "selected": 0,
+        "award": "",
+        "links": {
+          "pdf": "https://www.mdpi.com/1424-8220/24/11/3393"
         }
       }
+      
     ]
   }
