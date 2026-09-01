@@ -20,7 +20,7 @@
         }
       },
       {
-        "title": "The Geometry of tokens in internal representations of large language models",
+        "title": "The Intrinsic Dimension of Prompts in Internal Representations of Large Language Models",
         "authors": [
           "Karthik Viswanathan*",
           "Yuri Gardinazzi",
@@ -28,12 +28,12 @@
           "Alberto Cazzaniga",
           "Matteo Biagetti"
         ],
-        "venue": "Preprint (2025)",
+        "venue": "TMLR",
         "thumbnail": "images/thumbs/geometry.png",
         "selected": 1,
         "award": "",
         "links": {
-          "pdf": "https://arxiv.org/pdf/2501.10573",
+          "pdf": "https://openreview.net/forum?id=rBEgNAslpY",
           "code": "https://github.com/RitAreaSciencePark/token_geometry/tree/main"
         }
       },
